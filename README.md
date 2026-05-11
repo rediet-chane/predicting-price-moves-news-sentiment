@@ -1,15 +1,12 @@
 # Predicting Price Moves with News Sentiment
 
-This project analyzes the relationship between financial news sentiment and stock price movements.
+## Project Overview
+This project analyzes the relationship between financial news sentiment and stock price movements using NLP and statistical analysis.
 
-## Project Structure
+## Setup Instructions
 
-- `notebooks/` - Jupyter notebooks for analysis
-- `src/` - Source code
-- `tests/` - Unit tests
-- `scripts/` - Utility scripts
-
-## Setup
-
-```bash
-pip install -r requirements.txt
+1. Clone the repository
+2. Create virtual environment:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
